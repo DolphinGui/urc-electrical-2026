@@ -5854,6 +5854,18 @@
 	)
 	(hierarchical_label "CURRENT_C"
 		(shape input)
+		(at 124.46 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "027a0dda-cd88-47aa-9a1c-e5c37e3ae52b")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
 		(at 124.46 88.9 0)
 		(fields_autoplaced yes)
 		(effects
@@ -5863,6 +5875,210 @@
 			(justify left)
 		)
 		(uuid "07d2ba5b-a522-4e74-9b65-973565fbf299")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "15a54f95-b658-484b-bab1-f26ddc1c474f")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "166420fa-2885-48fa-9b19-ea5912b78fab")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1bd4a032-639b-4633-9766-d3edb79396c2")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "20e4fe22-1b4e-4973-ae28-e042c98b7f20")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24771d9c-f37e-467b-953f-c13517b6d5dc")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2ea689eb-8e6c-432f-83d2-e9efbd123c41")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "38cd3db6-c6cd-4201-ba30-351a89fd126d")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4d6f78b4-6741-4745-b00b-1a3b206c660f")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "51e871d0-ae50-4d80-adb0-b61f8501cb10")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5d900c61-3da7-48f1-9e94-fd53654df024")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5fa28e70-337d-4352-b3a3-f19dfd003c6a")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "622a93f5-8ef6-4cdb-a202-6590d4d8f2c0")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "719dcdad-7821-49a4-bfea-0deb0605bea9")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7200a9d8-86f1-410d-8ca4-a99c5a10630a")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73c9e699-e13f-4a7f-a7fc-5684d0c1b651")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "85dc78e7-0dbf-46ff-9677-23f31563cd73")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "880cf3be-b2fa-4a4c-9c97-68c29d30cc00")
 	)
 	(hierarchical_label "A{GATE}"
 		(shape output)
@@ -5876,6 +6092,30 @@
 		)
 		(uuid "9ab5758b-9340-4681-a161-9b9c3d940c10")
 	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9e6e7e5f-aba2-47c0-8a1c-5ca627d15524")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a1357583-d0fa-420b-958e-fc6b731592b1")
+	)
 	(hierarchical_label "CURRENT_A"
 		(shape input)
 		(at 130.81 92.71 0)
@@ -5887,6 +6127,18 @@
 			(justify left)
 		)
 		(uuid "a35cd0d1-65b8-4240-b4ad-4b59f29d7a96")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b0343988-0160-4770-a4d2-430530b604f3")
 	)
 	(hierarchical_label "B{GATE}"
 		(shape output)
@@ -5900,6 +6152,102 @@
 		)
 		(uuid "bc77df3f-6b31-449f-a0b0-5fc2fa07fda3")
 	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c0a6c211-75d7-4066-b13a-5f14f1b1d84a")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c8857dd9-62b9-466a-8a61-eb8197b287f1")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cbe85dfe-9025-42cb-9cbf-953ef68658f7")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd7bc90c-7607-4c4d-908e-1f91ba2b806b")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d2fb171a-5e3b-4b37-8eac-545f87172cc0")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d45b122e-1577-48c4-9620-4b30f867906b")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d80f16b4-3ac4-46ab-97b5-18736bfec369")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dbed0e91-4f1a-4dc3-9d41-36ac0d3972b6")
+	)
 	(hierarchical_label "CURRENT_B"
 		(shape input)
 		(at 130.81 95.25 0)
@@ -5912,6 +6260,30 @@
 		)
 		(uuid "ded191b6-3228-432c-8b9c-8164f55dafe3")
 	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dee3f929-4943-4fe9-a56a-c8c6affef6bf")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e5551b67-8f81-4688-99e4-bd90f214d4a6")
+	)
 	(hierarchical_label "USB{USB}"
 		(shape input)
 		(at 54.61 52.07 180)
@@ -5923,6 +6295,42 @@
 			(justify right)
 		)
 		(uuid "efd398c2-1b16-4246-ba81-f2b86253579c")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 124.46 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f022816c-bee1-4b75-94bc-0dc0f26cb387")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f48ee7e2-9973-41ba-af02-54df01d8bfad")
+	)
+	(hierarchical_label "CURRENT_C"
+		(shape input)
+		(at 67.31 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9a21481-b5f5-4938-8f69-3ee42d7129a0")
 	)
 	(symbol
 		(lib_id "Connector:Conn_ARM_JTAG_SWD_10")
